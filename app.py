@@ -890,7 +890,7 @@ def main():
         st.sidebar.video("https://www.youtube.com/watch?v=WD0sGwIhJNA")
         with st.sidebar:
             #image= Image.open("Home1.png")
-            st.write('Author@ Siddhartha Sarkar')
+            st.write('This Machine Learning Project Done By Author@ Siddhartha Sarkar')
             st.write('Data Scientist ')
         st.balloons()
         
